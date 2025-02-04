@@ -1,7 +1,7 @@
-public class Cat {
+public class Cat2 {
     private String name;
 
-    public Cat(String name) {
+    public Cat2(String name) {
         this.name = name;
     }
 
